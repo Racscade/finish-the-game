@@ -1,0 +1,14 @@
+AnimatedSprite2D
+AnimationPlayer
+TextureRect
+HBoxContainer
+CanvasLayer
+CollisionShape2D
+Area2D
+AudioStreamPlayer
+ColorRect
+Timer
+Button
+Label
+PathFollow2D
+Path2D
